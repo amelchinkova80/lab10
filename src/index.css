@@ -1,0 +1,35 @@
+.offer__main {
+  text-align: center;
+}
+
+.offer__image {
+  margin-bottom: 13px;
+}
+
+.offer__header {
+  font-size: 23px;
+}
+
+.offer__text {
+  width: 80%;
+  margin: 0 auto;
+  font-size: 17px;
+  color: gray;
+  font-weight: 200;
+}
+
+section {
+  text-align: center;
+  margin: 0 auto;
+  width: 90%;
+}
+
+.section__header {
+  font-size: 30px;
+  margin-bottom: 60px;
+}
+
+.offers__wrapper {
+  display: flex;
+  justify-content: space-between;
+}
